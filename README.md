@@ -1,6 +1,9 @@
+
 # centaur
 
-A new Flutter project.
+Example of how to create scenes with Rive content in Flutter!
+
+https://user-images.githubusercontent.com/454182/137383151-e00a8c1e-6025-410d-8674-b8314ef68a28.mov
 
 ## Getting Started
 
